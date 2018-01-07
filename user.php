@@ -74,7 +74,7 @@ for ($i = 0; $i < $course_list_result_1->num_rows; $i++) {
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">教师工资管理系统</a>
+            <a class="navbar-brand" href="#">事业单位工资管理系统</a>
         </div>
         <div class="collapse navbar-collapse" id="nav-title">
             <ul class="nav navbar-nav">
